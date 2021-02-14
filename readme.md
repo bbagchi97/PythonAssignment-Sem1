@@ -4,7 +4,7 @@
 
 This **repo** is built for uploading all the Python assignments of MCAN-191 - Semester I, Master of Computer Application at *Siliguri Institute of Technology*
 
-The repo is last updated on: 08-02-2021
+The repo is last updated on: 14-02-2021
 
 #### Assignments included
 1. Assignment 1
