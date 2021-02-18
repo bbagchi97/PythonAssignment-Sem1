@@ -14,7 +14,7 @@ def tripatt1():
         for j in range(1, num-i+1):
             print(end=" ")
         for j in range(i, 0, -1):
-            print("0", end="")
+            print("O", end="")
         for j in range(2, i+1):
             print(0, end="")
         print()
@@ -25,7 +25,7 @@ def tripatt2():
         for j in range(i):
             print(end=" ")
         for j in range(2*(num-i)-1):
-            print("0", end="")
+            print("O", end="")
         print()
 # Pattern 3
 def tripatt3():

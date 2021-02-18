@@ -26,7 +26,7 @@ def patter2():
 def patter3():
     num = int(input("Enter a number: "))
     for i in range (num, 0, -1): 
-        print((num-i) * ' ' + i * '*') 
+        print((num-i) * ' ' + i * 'A') 
 
 # Main script
 if __name__=="__main__":
