@@ -4,11 +4,11 @@ Author: Bikramadittya Bagchi
 Date: 11-03-2021
 '''
 
-def cToF(far_inp):
+def fToC(far_inp):
 	cel_out = (5/9)*(far_inp-32)
 	print(f"Temparature {far_inp} Farhenheit is {cel_out} Celsius")
 
-def fToC(cel_inp):
+def cToF(cel_inp):
 	far_out = (cel_inp * 9/5) + 32
 	print(f"Temparature {cel_inp} Celsius is {far_out} Farhenheit")
 
