@@ -10,7 +10,7 @@ print("Insert elements for array: ")
 for i in range(row):
     for j in range(col):
         print(f"Position {i+1}, {j+1}: ", end=' ')
-        inp = input("Enter value: ")
+        inp = int(input("Enter value: "))
         arr1[i][j] = inp
 
 print(arr1)
